@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "NekoBot",
+    "price": 9500000000,
+    "stock": 5,
+    "file": "https://github.com/AxellNetwork/NekoBot"
+  },
+  {
+    "id": "2",
+    "name": "ZellBot",
+    "price": 10000000000,
+    "stock": 4,
+    "file": "https://github.com/Bhuzel/ZellBot"
+  },
+  {
+    "id": "3",
+    "name": "SuikaBot",
+    "price": 8500000000,
+    "stock": 6,
+    "file": "https://github.com/SoursopID/Suika"
+  },
+  {
+    "id": "4",
+    "name": "RaolProjects",
+    "price": 9000000000,
+    "stock": 5,
+    "file": "https://github.com/latesturl/RaolProjects"
+  },
+  {
+    "id": "5",
+    "name": "SimpleBot",
+    "price": 7500000000,
+    "stock": 7,
+    "file": "https://github.com/Skyzodev/Simplebot"
+  },
+  {
+    "id": "6",
+    "name": "Kmmy-MD",
+    "price": 11000000000,
+    "stock": 3,
+    "file": "https://github.com/alvinpin/kmmy-md"
+  }
+]
