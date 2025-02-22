@@ -9,43 +9,50 @@
   {
     "id": "2",
     "name": "ZellBot",
-    "price": 1000000,
+    "price": 100000,
     "stock": 10,
     "file": "https://github.com/Bhuzel/ZellBot"
   },
   {
     "id": "3",
     "name": "SuikaBot",
-    "price": 85000000,
+    "price": 850000,
     "stock": 6,
     "file": "https://github.com/SoursopID/Suika"
   },
   {
     "id": "4",
     "name": "RaolProjects",
-    "price": 90000000,
+    "price": 90000,
     "stock": 50,
     "file": "https://github.com/latesturl/RaolProjects"
   },
   {
     "id": "5",
     "name": "SimpleBot",
-    "price": 30000000,
+    "price": 300000,
     "stock": 10,
     "file": "https://github.com/Skyzodev/Simplebot"
   },
   {
     "id": "6",
     "name": "KIMMY-MD",
-    "price": 23000000,
+    "price": 230000,
     "stock": 10,
     "file": "https://github.com/alvinpin/kmmy-md"
   },
   {
     "id": "7",
     "name": "HANAKO - AI",
-    "price": 10000000,
+    "price": 1000000,
     "stock": 10,
     "file": "https://github.com/LeooxzyDekuu/HanakoBotz"
+  },
+  {
+    "id": "8",
+    "name": "CUKUP TAU - WA BOT",
+    "price": 3000000,
+    "stock": 10,
+    "file": "https://github.com/itsreimau/ckptw-wabot"
   }
 ]
